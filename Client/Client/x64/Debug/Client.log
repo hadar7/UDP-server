@@ -1,0 +1,5 @@
+﻿  client.cpp
+C:\Users\97250\Desktop\EX2-computerNetwork\EX2-computerNetwork\Client\Client\client.cpp(19,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\97250\Desktop\EX2-computerNetwork\EX2-computerNetwork\Client\Client\client.cpp(193,33): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\97250\Desktop\EX2-computerNetwork\EX2-computerNetwork\Client\Client\client.cpp(195,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Client.vcxproj -> C:\Users\97250\Desktop\EX2-computerNetwork\EX2-computerNetwork\Client\x64\Debug\Client.exe

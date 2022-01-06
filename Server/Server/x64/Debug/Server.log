@@ -1,0 +1,8 @@
+﻿  server.cpp
+C:\Users\97250\Desktop\EX2-computerNetwork\EX2-computerNetwork\Server\Server\server.cpp(33,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\97250\Desktop\EX2-computerNetwork\EX2-computerNetwork\Server\Server\server.cpp(227,20): warning C4477: 'sprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'time_t'
+C:\Users\97250\Desktop\EX2-computerNetwork\EX2-computerNetwork\Server\Server\server.cpp(227,20): message : consider using '%lld' in the format string
+C:\Users\97250\Desktop\EX2-computerNetwork\EX2-computerNetwork\Server\Server\server.cpp(227,20): message : consider using '%Id' in the format string
+C:\Users\97250\Desktop\EX2-computerNetwork\EX2-computerNetwork\Server\Server\server.cpp(227,20): message : consider using '%I64d' in the format string
+C:\Users\97250\Desktop\EX2-computerNetwork\EX2-computerNetwork\Server\Server\server.cpp(326,13): warning C4244: 'initializing': conversion from 'ULONGLONG' to 'double', possible loss of data
+  Server.vcxproj -> C:\Users\97250\Desktop\EX2-computerNetwork\EX2-computerNetwork\Server\x64\Debug\Server.exe
